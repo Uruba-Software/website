@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "date": "7 Nisan 2026", "date_iso": "2026-04-07",
+    "title": "aptunnel-gui 0.1.0 Released", "title_tr": "aptunnel-gui 0.1.0 Yayında",
+    "summary": "We released the first version of aptunnel-gui, a terminal-based visual interface for managing Aptible database tunnels. Navigate and control your tunnels with keyboard or mouse — no command memorization required.",
+    "summary_tr": "Aptible veritabanı tünellerini görsel olarak yönetmek için tasarlanmış terminal arayüzü aptunnel-gui'nin ilk sürümü yayınlandı. Klavye veya fare ile tünellerinizi kolayca yönetin.",
+    "url": "https://www.npmjs.com/package/aptunnel-gui"
+  },
+  {
+    "date": "6 Nisan 2026", "date_iso": "2026-04-06",
+    "title": "claude-api-proxy 0.1.0 Released", "title_tr": "claude-api-proxy 0.1.0 Yayında",
+    "summary": "claude-api-proxy, our Anthropic API key rotation proxy for Claude Code, is now available on npm. Seamlessly rotate between multiple API keys when quota runs out — completely transparent to Claude Code.",
+    "summary_tr": "Claude Code için Anthropic API anahtar rotasyon proxy'si claude-api-proxy, npm'de kullanıma sunuldu. Kota dolduğunda API anahtarlarınızı sorunsuz döndürün — Claude Code için tamamen şeffaf.",
+    "url": "https://www.npmjs.com/package/claude-api-proxy"
+  },
+  {
+    "date": "27 Mart 2026", "date_iso": "2026-03-27",
+    "title": "aptunnel 1.0.0 — Stable Release", "title_tr": "aptunnel 1.0.0 — Kararlı Sürüm",
+    "summary": "aptunnel reached stable 1.0.0 on npm. This milestone marks the first production-ready release of our Aptible CLI wrapper — supporting multi-tunnel, auto-discovery, background process management, and full cross-platform support.",
+    "summary_tr": "aptunnel, npm'de kararlı 1.0.0 sürümüne ulaştı. Çoklu tünel, otomatik keşif, arka plan süreç yönetimi ve tam çapraz platform desteği ile ilk üretim hazır sürüm.",
+    "url": "https://www.npmjs.com/package/aptunnel"
+  },
+  {
+    "date": "16 Mart 2026", "date_iso": "2026-03-16",
+    "title": "noteward — Now on GitHub", "title_tr": "noteward — GitHub'ta Yayında",
+    "summary": "noteward is now on GitHub. It watches your notes folder, automatically encrypts sensitive data, and delivers AI-powered daily summaries via Slack or Discord.",
+    "summary_tr": "noteward artık GitHub'da. Not klasörünüzü izler, hassas verileri otomatik şifreler ve Slack veya Discord aracılığıyla yapay zeka destekli günlük özetler sunar.",
+    "url": "https://github.com/Uruba-Software/noteward"
+  },
+  {
+    "date": "9 Mart 2026", "date_iso": "2026-03-09",
+    "title": "jr-developer — Announced on GitHub", "title_tr": "jr-developer — GitHub'ta Duyuruldu",
+    "summary": "We published the repository for jr-developer, our upcoming AI-powered messaging-driven development assistant. Self-hosted, open-source, and human-in-the-loop.",
+    "summary_tr": "Yapay zeka destekli mesajlaşma tabanlı geliştirme asistanımız jr-developer için GitHub deposunu yayınladık. Kendi sunucunuzda çalışır, açık kaynaklıdır ve insan onaylıdır.",
+    "url": "https://github.com/Uruba-Software/jr-developer"
+  },
+  {
+    "date": "1 Ocak 2026", "date_iso": "2026-01-01",
+    "title": "Uruba Software Founded", "title_tr": "Uruba Software Kuruldu",
+    "summary": "We are proud to announce the official founding of Uruba Software, an AI-focused software company based in Ankara, Turkey. Founded by Bayram Uluad as a sole proprietorship, Uruba Software develops AI-powered developer tools, open-source software, and custom AI solutions for organizations that need to move at the speed of intelligence.\n\nOur first products are already in active development. We believe the best software solves problems that teams actually face every day. That is the standard we hold ourselves to.",
+    "summary_tr": "Ankara merkezli yapay zeka odaklı yazılım şirketi Uruba Software'in resmi kuruluşunu duyurmaktan gurur duyuyoruz. Bayram Uluad tarafından şahıs şirketi olarak kurulan Uruba Software; yapay zeka destekli geliştirici araçları, açık kaynak yazılımlar ve AI çözümleri geliştirecek.\n\nİlk ürünlerimiz aktif geliştirme aşamasında. En iyi yazılımın gerçek sorunları çözdüğüne inanıyoruz.",
+    "url": ""
+  }
+]
